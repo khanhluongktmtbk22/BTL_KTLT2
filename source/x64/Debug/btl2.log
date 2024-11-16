@@ -1,0 +1,8 @@
+﻿  knight2.cpp
+C:\Users\Acer\code C++\btl2\knight2.cpp(299,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\code C++\btl2\knight2.cpp(302,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Acer\code C++\btl2\knight2.cpp(305,71): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+C:\Users\Acer\code C++\btl2\knight2.cpp(380): warning C4715: 'ArmyKnights::lastKnight': not all control paths return a value
+  btl2.vcxproj -> C:\Users\Acer\code C++\btl2\x64\Debug\btl2.exe

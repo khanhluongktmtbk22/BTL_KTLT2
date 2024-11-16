@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32216.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/acer/code c++/btl2/knight2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8f72852d0c83aea3d5c5ce3c00fbef8aae20dc8809472f725d01028f3b249e37"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/acer/code c++/btl2/knight2.h"
+          },
+          "hashes": {
+            "sha-256": "131e6b89b6f727c3296d8e1af6a19df709e03a3110c2bb7eb29e8bb7bf30c5a3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/acer/code c++/btl2/main.h"
+          },
+          "hashes": {
+            "sha-256": "4c193a2b9f2ee85b3f90ee5c4b8105db83bd5e21eb43e3760659ffd476f6abf0"
+          }
+        }
+      ]
+    }
+  ]
+}
